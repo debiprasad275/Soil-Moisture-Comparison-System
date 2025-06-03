@@ -54,10 +54,10 @@ ESP32 (Arduino):
   -Wet: Both high or visually wet but sensor dry
 
 ## 📊 Performance & Testing
-Sensor Accuracy: ±5% in standard soil conditions
-Gemini Visual Accuracy: High with clear images
-Response Time: ~3–5 seconds end-to-end
-Feedback Reliability: 90%+ with good lighting and trained model
+- Sensor Accuracy: ±5% in standard soil conditions
+- Gemini Visual Accuracy: High with clear images
+- Response Time: ~3–5 seconds end-to-end
+- Feedback Reliability: 90%+ with good lighting and trained model
 
 ## 📌 Future Improvements
 - Auto-watering with relay control
