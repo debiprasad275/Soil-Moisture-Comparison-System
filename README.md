@@ -27,14 +27,14 @@ ESP32:
 - Blynk Library
 - Wi-Fi configuration
 - Analog data reading from sensor
-## Smartphone:
+### Smartphone:
 Google Gemini API access
 
 ## 📚 Required Libraries
 ESP32 (Arduino):
-  -WiFi.h
-  -BlynkSimpleEsp32.h
-  -ADC (for analog reads)
+  - WiFi.h
+  - BlynkSimpleEsp32.h
+  - ADC (for analog reads)
 
 
 ## 📲 Usage Flow
