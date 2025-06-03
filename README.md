@@ -60,6 +60,6 @@ Response Time: ~3–5 seconds end-to-end
 Feedback Reliability: 90%+ with good lighting and trained model
 
 ## 📌 Future Improvements
-Auto-watering with relay control
-Notifications via Telegram/Email
-Voice-based feedback using smartphone TTS
+- Auto-watering with relay control
+- Notifications via Telegram/Email
+- Voice-based feedback using smartphone TTS
