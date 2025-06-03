@@ -1,4 +1,4 @@
-## 🌿 Soil Moisture Comparison System
+# 🌿 Soil Moisture Comparison System
 
 
 ## 📌 Overview
@@ -27,7 +27,7 @@ ESP32:
 - Blynk Library
 - Wi-Fi configuration
 - Analog data reading from sensor
-# Smartphone:
+## Smartphone:
 Google Gemini API access
 
 ## 📚 Required Libraries
